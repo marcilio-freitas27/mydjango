@@ -35,7 +35,7 @@ Primeiro Projeto com Django
 ## Mais informações
 
 * Django
-[djangoproject.com](https://www.djangoproject.com/start/])
+[djangoproject.com](https://www.djangoproject.com/])
 
 * Python
 [python.org](https://www.python.org/)
